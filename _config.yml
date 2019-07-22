@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Lori # add your name
-author-img: fox-min.JPG # add your photo 
+author-img: fox-min.jpg # add your photo 
 about-author: Programmer.Currently Working on Deep Learning. # add description
 social-twitter: # add your Twitter handle
 social-github: loribeehive # add your Github handle
